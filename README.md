@@ -1,1 +1,1 @@
-# Projeto slide do curso Javascript Completo da plataforma Origamid
+# Slide do curso de JavaScript Completo da plataforma Origamid
